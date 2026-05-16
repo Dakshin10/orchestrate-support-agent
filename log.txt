@@ -1,0 +1,19 @@
+User: Designed a multi-domain support triage agent for HackerRank, Claude, and Visa support systems.
+
+AI: Suggested architecture including classifier, safety module, retriever, and response generator.
+
+User: Implemented classification and retrieval pipeline using support corpus.
+
+AI: Provided improvements for response filtering, ensuring complete sentences and avoiding truncation.
+
+User: Debugged issues with fragmented and incomplete responses.
+
+AI: Suggested fixes for sentence extraction, fallback logic, and safe truncation handling.
+
+User: Optimized escalation logic to avoid hallucination and handle low-confidence cases.
+
+AI: Confirmed system meets all challenge requirements and improves response quality.
+
+User: Generated final output.csv and validated system performance.
+
+AI: Verified compliance with evaluation criteria and prepared submission.
