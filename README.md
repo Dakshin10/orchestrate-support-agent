@@ -262,6 +262,14 @@ The agent reads `../support_tickets/support_tickets.csv`, processes every row th
 
 ---
 
+## 🏆 Certificate
+
+<p align="center">
+  <img src="certificate.png" alt="HackerRank Orchestrate Certificate" width="80%"/>
+</p>
+
+---
+
 ## 📜 License & Attribution
 
 Built for the **HackerRank Orchestrate** hackathon (May 2026).  
